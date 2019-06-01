@@ -37,5 +37,6 @@ delete http://localhost:8080/employees/8
 
 ## 参考
 - [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+- [人人都是 API 设计师：我对 RESTful API、GraphQL、RPC API 的思考](https://www.infoq.cn/article/ZgAAVBZZaoo4I0-pkgV8)
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - [SpringBoot教程(一)构建restful web服务](https://juejin.im/post/5ac31c2b51882555784e266c)
