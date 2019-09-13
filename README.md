@@ -2,6 +2,8 @@
 
 ## swagger文档
 
+ http://localhost:8080/swagger-ui.html
+
 ![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601165410.png)
 
 ## 运行效果
@@ -34,8 +36,22 @@ delete http://localhost:8080/employees/8
 
 ![](https://raw.githubusercontent.com/gaohanghang/images/master/img20190601164843.png)
 
+## 快速启动
+
+·1.  Mysql 创建 test 数据库
+
+2. 从 idea 启动项目
+3. 打开 swagger 文档页面， http://localhost:8080/swagger-ui.html
+
+## 技术栈
+
+- spring boot
+- gradle
+- spring data jpa
+- mysql
 
 ## 参考
+
 - [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 - [人人都是 API 设计师：我对 RESTful API、GraphQL、RPC API 的思考](https://www.infoq.cn/article/ZgAAVBZZaoo4I0-pkgV8)
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
